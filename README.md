@@ -23,5 +23,10 @@ npm init
 npm start
 ```
 
+Don't forget install live-server, if you haven't it
+```sh
+npm install -g live-server
+```
+
 ## Demo
 <a href="https://soltonanna.github.io/pig_game/" target="blank"> DEMO </a>
