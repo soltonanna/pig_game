@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "live-server --open=src/index.html",
     "lint": "eslint ./src",
     "lint:fix": "eslint ./src --fix",
     "deploy": "gh-pages -d src",
