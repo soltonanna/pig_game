@@ -23,3 +23,5 @@ npm init
 npm start
 ```
 
+## Demo
+<a href="https://soltonanna.github.io/pig_game/" target="blank"> DEMO </a>
